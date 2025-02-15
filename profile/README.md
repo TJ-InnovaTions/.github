@@ -1,6 +1,6 @@
 # 🚀 TJ-InnovaTions  
 
-Welcome to **TJ-InnovaTions**! We are a passionate team of developers committed to building **innovative, high-quality, and user-friendly web solutions** that make everyday life easier.  
+![MasterHead](developer.jpeg)
 
 ## 🌟 Who We Are  
 
