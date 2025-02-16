@@ -1,6 +1,6 @@
 # 🚀 TJ-InnovaTions  
 
-![MasterHead](code_gifs.gif)
+![MasterHead](hello-world.gif)
 
 ## 🌟 Who We Are  
 
