@@ -31,4 +31,7 @@
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Handshake.webp" alt="Handshake" width="35" height="35" /> 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝞈𝗶𝘁𝗵 𝞄𝘀</h2>
 
 𝗪𝗲'𝗿𝗲 𝗮𝝞𝞈𝗮𝝲𝘀 𝗼𝗽𝗲𝗻 𝘁𝗼 𝗻𝗲𝞈 𝗶𝗱𝗲𝗮𝘀, 𝗰𝗼𝝞𝝞𝗮𝗯𝗼𝗿𝗮𝘁𝗶𝗼𝗻𝘀, 𝗮𝗻𝗱 𝗼𝗽𝗽𝗼𝗿𝘁𝞄𝗻𝗶𝘁𝗶𝗲𝘀! 𝗙𝗲𝗲𝝞 𝗳𝗿𝗲𝗲 𝘁𝗼 𝗲𝘅𝗽𝝞𝗼𝗿𝗲 𝗼𝞄𝗿 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀, 𝗰𝗼𝗻𝘁𝗿𝗶𝗯𝞄𝘁𝗲, 𝗼𝗿 𝗿𝗲𝗮𝗰𝗵 𝗼𝞄𝘁  
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdjoy.javascript@gmail.com)
+
+
